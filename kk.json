@@ -2101,7 +2101,7 @@
 			"label-nondirectional": "Nondirectional",
 			"label-unidirectional": "Unidirectional",
 			"label-bidirectional": "Bidirectional",
-			"label-image": "Image",
+			"label-image": "Сурет",
 			"label-style": "Style",
 			"msg-no-groups-found": "No groups found",
 			"msg-export-failed-empty-canvas": "Cannot export an empty canvas"
@@ -2180,7 +2180,7 @@
 	},
 	"table": {
 		"label-column": "Column",
-		"label-row": "Row",
+		"label-row": "Жол",
 		"action-row-after": "Add row after",
 		"action-column-after": "Add column after",
 		"action-row-before": "Add row before",
@@ -2200,7 +2200,7 @@
 		"action-clear-selection": "Clear cells",
 		"action-sort-a-z": "Sort by column (A to Z)",
 		"action-sort-z-a": "Sort by column (Z to A)",
-		"label-command": "Table: {{command}}"
+		"label-command": "Кесте: {{command}}"
 	},
 	"callout": {
 		"option-type": "Callout type",
@@ -2209,7 +2209,7 @@
 			"important": "Important",
 			"tip": "Tip",
 			"success": "Success",
-			"question": "Question",
+			"question": "Сұрақ",
 			"warning": "Warning",
 			"quote": "Quote",
 			"example": "Example",
@@ -2220,8 +2220,8 @@
 	},
 	"nouns": {
 		"count": "{{count}}",
-		"word-with-count": "{{count}} word",
-		"word-with-count_plural": "{{count}} words",
+		"word-with-count": "{{count}} сөз",
+		"word-with-count_plural": "{{count}} сөз",
 		"character-with-count": "{{count}} character",
 		"character-with-count_plural": "{{count}} characters",
 		"link-with-count": "{{count}} link",
